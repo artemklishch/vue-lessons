@@ -112,7 +112,7 @@ Vue.component('products', {
   }
 }) 
 
-
+ 
 const app = new Vue({
   el: '#app',
   data: {

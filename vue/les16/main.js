@@ -110,7 +110,7 @@ Vue.component('products', {
       details: ['socks', 'boots', 'coats', 'food', 'hats'],
     }
   }
-})
+}) 
 
 
 const app = new Vue({
